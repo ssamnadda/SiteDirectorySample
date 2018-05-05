@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-saturday-client-side-solution",
+    "id": "a5935f15-0a68-4724-8f2b-0fa3bc1a2080",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-saturday.sppkg"
+  }
+}

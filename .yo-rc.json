@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "sp-saturday",
+    "libraryId": "a5935f15-0a68-4724-8f2b-0fa3bc1a2080",
+    "environment": "spo"
+  }
+}
